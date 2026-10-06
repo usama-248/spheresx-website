@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ali Baig",
+    "role": "Founder & CEO, Orbilon Technologies",
+    "relationship": "Direct manager",
+    "date": "September 2025",
+    "quote": "He's technically sound and picks up concepts really well.",
+    "summary": "Recognizes Usama’s technical ability, commitment and contribution to Flutter/Firebase projects and team development."
+  },
+  {
+    "name": "Fahad Rehman",
+    "role": "Flutter Developer & Upwork Expert",
+    "relationship": "Client",
+    "date": "September 2025",
+    "quote": "professionalism, clear communication",
+    "summary": "Highlights a positive mobile development engagement, dependable delivery and effective communication throughout the project."
+  },
+  {
+    "name": "Kashif Tufail",
+    "role": "DevOps Engineer & Cloud Architect",
+    "relationship": "Client",
+    "date": "September 2025",
+    "quote": "resolved complex issues efficiently",
+    "summary": "Recommends Usama for resolving difficult Flutter issues, communicating clearly and completing the agreed work on schedule."
+  },
+  {
+    "name": "Lala Iqbal",
+    "role": "Startup Partner · CTO · CEO",
+    "relationship": "Client",
+    "date": "September 2025",
+    "quote": "Usama combines reliability, creativity, and integrity",
+    "summary": "Describes a proactive collaborator who takes initiative, manages deadlines and brings considered solutions to project challenges."
+  }
+]

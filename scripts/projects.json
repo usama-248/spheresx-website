@@ -1,0 +1,639 @@
+[
+  {
+    "title": "Artflow Pro",
+    "slug": "artflow-pro",
+    "image": "/assets/artflow-pro-cover.png",
+    "media": [
+      "assets/artflow_pro_images/artflow_1.png",
+      "assets/artflow_pro_images/artflow_2.png",
+      "assets/artflow_pro_images/artflow_3.png",
+      "assets/artflow_pro_images/artflow_4.png",
+      "assets/artflow_pro_images/artflow_5.png",
+      "assets/artflow_pro_images/artflow_6.png",
+      "assets/artflow_pro_images/artflow_7.png",
+      "assets/artflow_pro_images/artflow_8.png",
+      "assets/artflow_pro_images/artflow_9.png"
+    ],
+    "tech": [
+      "Flutter",
+      "ASP.NET API",
+      "AI Integration",
+      "SignalR",
+      "Cloudinary",
+      "Secure Storage",
+      "In-App Purchase"
+    ],
+    "features": [
+      "Artist portfolio management",
+      "Role-based accounts (Free/Pro)",
+      "Secure art transactions",
+      "Gallery virtual tours",
+      "Community engagement tools"
+    ],
+    "description": "Artflow Pro is a feature-rich platform designed for artists and galleries, supporting role-based access and monetization via tiered subscriptions.\n\n🔷 ASP.NET API Integration: Robust backend using ASP.NET Web API for high performance and scalability.\n🔷 AI-Powered Features: AI-generated social media content and promotional materials.\n🔷 User Roles: Artist & Gallery roles with distinct capabilities.\n🔷 Free & Pro Accounts: Tiered access with monetization options and enhanced tools for Pro users.\n🔷 Real-Time Chat: SignalR-based live chat between users.\n🔷 Image Uploads: Optimized Cloudinary integration for image handling.\n🔷 Secure Storage: Environment variables and secure storage for sensitive data.\n🔷 In-App Purchases: Smooth upgrade path from Free to Pro accounts.\n\n📲 Download:\n🍎 App Store — ArtFlowPro\n🤖 Google Play — ArtFlow Pro",
+    "links": [
+      {
+        "url": "https://apps.apple.com/us/app/artflowpro/id6480331165",
+        "label": "App Store — ArtFlowPro"
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.infoonscreen.artflow&hl=en",
+        "label": "Google Play — ArtFlow Pro"
+      }
+    ],
+    "screenshots": [
+      "/assets/artflow-pro-0.png",
+      "/assets/artflow-pro-1.png",
+      "/assets/artflow-pro-2.png"
+    ]
+  },
+  {
+    "title": "Data Mirroring TV Cast",
+    "slug": "data-mirroring-tv-cast",
+    "image": "/assets/data-mirroring-tv-cast-cover.png",
+    "media": [
+      "assets/tv_cast_media/mirroring_video.mp4"
+    ],
+    "tech": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "AdMob",
+      "Adapty",
+      "Game Analytics",
+      "Push Notifications",
+      "Subscriptions"
+    ],
+    "features": [
+      "Full mobile screen mirroring to Smart TV",
+      "Video, audio, photo & YouTube casting",
+      "Browser, Google Drive & Photos casting",
+      "Whiteboard casting & TV remote control",
+      "HD & Ultra HD streaming quality",
+      "Adapty subscriptions (Yearly & Lifetime)",
+      "Firebase Analytics & Game Analytics",
+      "Google AdMob monetization integration"
+    ],
+    "description": "I developed and launched the Data Mirroring TV Cast App using Flutter & Dart for both Android and iOS — now LIVE on the App Store and Google Play.\n\nThis app lets users connect their mobile devices with Smart TVs/LEDs over the same Wi-Fi network for a complete wireless casting experience.\n\n📺 Full Mobile Screen Mirroring\n🎬 Video, Audio & Photo Casting\n🌐 Browser Casting\n▶️ YouTube Casting\n☁️ Google Drive & Google Photos Casting\n✍️ Whiteboard Casting\n⚡ Fast & Smooth Connectivity\n🖥️ Smart TV Remote Control Features\n🎞️ HD & Ultra HD Streaming Quality\n\n🛠️ Tech Stack & Integrations\n💙 Flutter & Dart · 🔥 Firebase · 🔔 Push Notifications\n📊 Firebase Analytics · 🎯 Game Analytics\n💳 Adapty Subscriptions (Yearly & Lifetime)\n📢 Google AdMob Integration\n\n📲 Download:\n🍎 iOS App Store\n🤖 Google Play Store\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/e43zBeET",
+        "label": "iOS App Store"
+      },
+      {
+        "url": "https://lnkd.in/edr8GtTb",
+        "label": "Google Play Store"
+      },
+      {
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7458464247631626240/",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": []
+  },
+  {
+    "title": "Phone Cleaner – AI Junk Cleaner",
+    "slug": "phone-cleaner-ai-junk-cleaner",
+    "image": "/assets/phone-cleaner-ai-junk-cleaner-cover.png",
+    "media": [
+      "assets/phone_cleaner_media/1.png",
+      "assets/phone_cleaner_media/2.png",
+      "assets/phone_cleaner_media/3.png",
+      "assets/phone_cleaner_media/4.png",
+      "assets/phone_cleaner_media/5.png",
+      "assets/phone_cleaner_media/6.png",
+      "assets/phone_cleaner_media/7.png",
+      "assets/phone_cleaner_media/8.png",
+      "assets/phone_cleaner_media/9.png",
+      "assets/phone_cleaner_media/10.png",
+      "assets/phone_cleaner_media/11.png",
+      "assets/phone_cleaner_media/12.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Dart",
+      "AI Integration",
+      "Storage Cleaner",
+      "Photo Lock",
+      "Video Compression",
+      "Google Play"
+    ],
+    "features": [
+      "AI junk & storage cleaner",
+      "Screen lock & private photo/video lock",
+      "AI photo editor with smart enhancements",
+      "Photo & video compression tools",
+      "Charging theme animations",
+      "Contact management utilities",
+      "Step-by-step cleaning guide",
+      "Fast, simple & user-friendly UX"
+    ],
+    "description": "I launched Phone Cleaner – AI Junk Cleaner on Google Play — a powerful all-in-one utility app designed to clean, optimize, secure, and enhance the smartphone experience.\n\nBuilt using Flutter & Dart, focusing on performance, usability, and modern mobile app design.\n\n✨ Key Features\n✅ AI Junk Cleaner – Detect and remove unnecessary files\n✅ Storage Cleaner – Free up valuable device space\n✅ Screen Lock Security – Protect your privacy\n✅ Private Photo Lock – Secure sensitive photos and videos\n✅ Charging Theme Animations – Make charging more engaging\n✅ Photo & Video Compression – Reduce file sizes without losing quality\n✅ Contact Management Tools – Organize and manage contacts efficiently\n✅ Cleaning Guide – Helpful tips to keep your device optimized\n✅ AI Photo Editor – Enhance and edit photos with AI-powered tools\n✅ Fast, Simple & User-Friendly Experience\n\n🛠️ Tech Stack\n💙 Flutter & Dart · Performance-focused architecture · Modern UI/UX\n\n📲 Download:\n🤖 Google Play Store\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/dPZBMM88",
+        "label": "Google Play Store"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/muhammadusama2486_flutter-dart-googleplay-activity-7472516743127769088-2iKi",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": [
+      "/assets/phone-cleaner-ai-junk-cleaner-0.png",
+      "/assets/phone-cleaner-ai-junk-cleaner-1.png",
+      "/assets/phone-cleaner-ai-junk-cleaner-2.png"
+    ]
+  },
+  {
+    "title": "Facebook Video Downloader",
+    "slug": "facebook-video-downloader",
+    "image": "/assets/facebook-video-downloader-cover.png",
+    "media": [
+      "assets/fb_video_downloader_media/fb_video.mp4"
+    ],
+    "tech": [
+      "Flutter",
+      "Dart",
+      "AdMob",
+      "Ad Mediation",
+      "Mintegral",
+      "Liftoff",
+      "Meta Audience Network",
+      "Google Play"
+    ],
+    "features": [
+      "Fast Facebook video downloads",
+      "HD quality support",
+      "Quick link-based downloading",
+      "Easy video library management",
+      "Offline video playback",
+      "Google AdMob monetization",
+      "Ad mediation (Mintegral, Liftoff, Meta)",
+      "Clean & user-friendly UI"
+    ],
+    "description": "I launched Facebook Video Downloader on Google Play — download and save your favorite Facebook videos quickly and easily with a simple, user-friendly experience.\n\n✨ Key Features\n✅ Fast video downloads\n✅ HD quality support\n✅ Easy video management\n✅ Offline video playback\n✅ Simple and clean UI\n✅ Quick link-based downloading\n\n🛠️ Built with\n• Flutter & Dart\n• Google AdMob Monetization\n• Mediation Integration:\n  · Mintegral\n  · Liftoff\n  · Meta Audience Network\n\nThis project helped me further enhance my experience in Flutter mobile development, video processing, ad mediation, app optimization, and Play Store deployment.\n\n📲 Download:\n🤖 Google Play Store\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/dqbQ9bWZ",
+        "label": "Google Play Store"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/muhammadusama2486_flutter-dart-mobileappdevelopment-activity-7471546671030792192-dXnY",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": []
+  },
+  {
+    "title": "Worldwide TV: Remote Control",
+    "slug": "worldwide-tv-remote-control",
+    "image": "/assets/worldwide-tv-remote-control-cover.png",
+    "media": [
+      "assets/worldwide_tv_remote_media/remote_video.mp4"
+    ],
+    "tech": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "AdMob",
+      "Adapty",
+      "Game Analytics",
+      "Push Notifications",
+      "Subscriptions"
+    ],
+    "features": [
+      "WiFi Smart TV remote control",
+      "Keyboard, voice typing & smart keypad",
+      "Quick access to Netflix, Prime & YouTube",
+      "Real-time photo & video casting",
+      "Haptic feedback on remote buttons",
+      "Multiple remote themes & UI styles",
+      "Adapty subscriptions (Weekly, Monthly, Yearly)",
+      "Firebase, GameAnalytics & AdMob integration"
+    ],
+    "description": "I launched Worldwide TV: Remote Control — now LIVE on both Android & iOS!\n\nBuilt completely with Flutter & Dart, this app transforms your smartphone into a powerful Smart TV Remote with advanced features and a smooth user experience.\n\n✨ Key Features\n📡 Connect your mobile to the Smart TV on the same WiFi network\n🎛️ Full Smart TV control with responsive remote buttons\n⌨️ Keyboard support with alphabets, numbers & special characters\n🎤 Voice typing using built-in microphone support\n🔢 Smart keypad for easier navigation\n📺 Quick access to streaming apps like Netflix, Prime Video & YouTube\n📸 Real-time media casting for photos & videos\n📳 Haptic vibration feedback for remote buttons\n🎨 Multiple remote themes & stylish UI options\n\n🛠️ Tech Stack & Integrations\n💙 Flutter & Dart · 🔥 Firebase & Firebase Analytics · 🔔 Push Notifications\n📈 GameAnalytics · 💳 Subscriptions (Weekly, Monthly & Yearly) · 📊 Adapty · 📢 Google AdMob\n\n📲 Download:\n🤖 Android — Universal TV Remote Cast 2026\n🍎 iOS — Worldwide TV: Remote Control\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/d6B7h6Ps",
+        "label": "Android — Universal TV Remote Cast 2026"
+      },
+      {
+        "url": "https://lnkd.in/drry8BUB",
+        "label": "iOS — Worldwide TV: Remote Control"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/muhammadusama2486_flutter-dart-firebase-activity-7458104222064984065-ys66",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": []
+  },
+  {
+    "title": "Share All – File Transfer App",
+    "slug": "share-all-file-transfer-app",
+    "image": "/assets/share-all-file-transfer-app-cover.png",
+    "media": [
+      "assets/share_all_media/transfer_video.mp4"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "AdMob",
+      "Adapty",
+      "Bluetooth",
+      "WiFi Transfer",
+      "Subscriptions",
+      "Analytics"
+    ],
+    "features": [
+      "Bluetooth file transfer (free)",
+      "Same network & direct WiFi transfer (Pro)",
+      "QR scanner-based quick pairing (Pro)",
+      "Ultra-fast unlimited data sharing",
+      "Rewarded video Pro unlock",
+      "AdMob (App Open, Banner, Interstitial, Rewarded)",
+      "Firebase backend, analytics & notifications",
+      "Adapty subscription management"
+    ],
+    "description": "I launched Share All – File Transfer App — now live on the Apple App Store and Google Play!\n\nDesigned to make file sharing fast, simple, and flexible with multiple transfer options.\n\n🔹 Bluetooth Transfer (Free Version)\nEasily share files using Bluetooth — available for all users.\n\n🔹 Same Network / Direct WiFi (Pro Feature)\nTransfer files at high speed using the same WiFi network or a direct connection.\n\n🔹 QR Scanner-Based Transfer (Pro Feature)\nQuickly connect and share files using a smart scanning system.\n\n⚡ Pro Features Benefits\nUltra-fast file transfer · Unlimited data sharing · Seamless connectivity\n\n🎁 Bonus: Watch a rewarded video to unlock Pro features (one-time access)\n\n💡 Monetization & Tech Stack\nSubscription-based model · Google AdMob (App Open, Banner, Interstitial, Rewarded Ads)\nFirebase (Backend + Analytics + Notifications) · Adapty for subscription management\n\n📊 Analytics Integration\nDetailed analytics to track user behavior, feature usage, engagement patterns, and optimize app performance and monetization strategy.\n\nThis project helped me explore real-time data transfer, performance optimization, analytics-driven decisions, and scalable monetization strategies in mobile apps.\n\n📲 Download:\n🤖 Android — Copy My Data: MobileTrans Data\n🍎 iPhone — Copy My Data Pro+\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/dkQAEH3f",
+        "label": "Android — Copy My Data: MobileTrans Data"
+      },
+      {
+        "url": "https://lnkd.in/dipTFwyy",
+        "label": "iPhone — Copy My Data Pro+"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/muhammadusama2486_iosdevelopment-flutter-mobileapps-activity-7444366976153440256-KLdm",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": []
+  },
+  {
+    "title": "Relvr: Stress Relief Relax",
+    "slug": "relvr-stress-relief-relax",
+    "image": "/assets/relvr-stress-relief-relax-cover.png",
+    "media": [
+      "assets/relvr_media/relvr_video.mp4"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "AdMob",
+      "Adapty",
+      "GPU Simulations",
+      "ASMR",
+      "Subscriptions",
+      "Cloud Functions"
+    ],
+    "features": [
+      "Realistic slime & fluid simulations",
+      "GPU-powered interactive textures",
+      "Stretch, press & slide like real life",
+      "Immersive ASMR sound effects",
+      "Stress relief & sleep improvement",
+      "Firebase analytics & cloud functions",
+      "Adapty subscription model",
+      "AdMob monetization integration"
+    ],
+    "description": "I launched Relvr: Stress Relief Relax on the Apple App Store — a calming anti-stress experience designed to help you unwind, relax, and reset anytime.\n\nIt combines ASMR, slime simulations, and fluid interactions to create a deeply satisfying and stress-relieving environment.\n\n✨ What You Can Do\nInteract with realistic slime & fluid simulations\nStretch, press, and slide textures just like real life\nEnjoy immersive ASMR sound effects\nRelax your mind, reduce anxiety, and improve sleep\n\n⚙️ Built With Advanced Tech\nGPU-powered systems (Fluid, Energy Flow, Illusions, Slime simulations)\nFirebase (Analytics, Notifications, Cloud Functions)\nSubscription model with Adapty\nGoogle AdMob (App Open, Banner, Interstitial, Rewarded Ads)\n\n🎯 This project was focused on creating a smooth, high-performance sensory experience while also implementing scalable backend systems and monetization strategies.\n\n📲 Download:\n🍎 App Store — Relvr: Stress Relief Relax\n🔗 View launch post on LinkedIn",
+    "links": [
+      {
+        "url": "https://lnkd.in/dJkpm44N",
+        "label": "App Store — Relvr: Stress Relief Relax"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/muhammadusama2486_applaunch-iosdevelopment-flutter-activity-7443158529852600320-yH2e",
+        "label": "View launch post on LinkedIn"
+      }
+    ],
+    "screenshots": []
+  },
+  {
+    "title": "Spheres – AI Personal Assistant",
+    "slug": "spheres-ai-personal-assistant",
+    "image": "/assets/spheres-ai-personal-assistant-cover.png",
+    "media": [
+      "assets/spheres_images/spheres_1.png",
+      "assets/spheres_images/spheres_2.png",
+      "assets/spheres_images/spheres_3.png",
+      "assets/spheres_images/spheres_4.png",
+      "assets/spheres_images/spheres_5.png",
+      "assets/spheres_images/spheres_6.png",
+      "assets/spheres_images/spheres_7.png",
+      "assets/spheres_images/spheres_8.png",
+      "assets/spheres_images/spheres_9.png",
+      "assets/spheres_images/spheres_10.png",
+      "assets/spheres_images/spheres_11.png",
+      "assets/spheres_images/spheres_12.png",
+      "assets/spheres_images/spheres_13.png",
+      "assets/spheres_images/spheres_14.png",
+      "assets/spheres_images/spheres_15.png",
+      "assets/spheres_images/spheres_16.png",
+      "assets/spheres_images/spheres_17.png",
+      "assets/spheres_images/spheres_18.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "AI Integration",
+      "Google Maps",
+      "Calendar API",
+      "Third-Party APIs",
+      "Secure Storage"
+    ],
+    "features": [
+      "Personal task management",
+      "AI-powered conversations",
+      "Emotional state tracking",
+      "Secure personal journal",
+      "Smart reminders"
+    ],
+    "description": "Spheres is a smart AI-powered assistant app designed to boost personal productivity through intelligent task handling and seamless user interaction — blending the capabilities of a chatbot with advanced planning tools.\n\n🧠 AI Chatbot Integration: Built on custom prompt engineering, offering emotionally responsive and contextual conversations.\n🗓️ Smart Task & Meeting Management: Create and manage tasks, meetings, reminders, and notes with AI assistance.\n🔐 Firebase Integration: Real-time data storage, authentication, and notifications.\n⏰ Reminders & Alerts: Supports one-time and recurring schedules — daily, weekly, or monthly.\n🗺️ Maps & Calendar APIs: Location-aware scheduling and Google Calendar syncing.\n🔌 Third-Party APIs: Extendable with external services for added functionality.\n👤 User Profiling: Learns user habits to offer better suggestions.\n💬 Emotionally Aware Chat: Supports personal, emotional conversations beyond productivity.",
+    "links": [],
+    "screenshots": [
+      "/assets/spheres-ai-personal-assistant-0.png",
+      "/assets/spheres-ai-personal-assistant-1.png",
+      "/assets/spheres-ai-personal-assistant-2.png"
+    ]
+  },
+  {
+    "title": "Webination Business Hub",
+    "slug": "webination-business-hub",
+    "image": "/assets/webination-business-hub-cover.png",
+    "media": [
+      "assets/webinition_images/webnition_1.jpeg",
+      "assets/webinition_images/webnition_2.jpeg",
+      "assets/webinition_images/webnition_3.jpeg",
+      "assets/webinition_images/webnition_4.jpeg",
+      "assets/webinition_images/webnition_5.jpeg",
+      "assets/webinition_images/webnition_6.jpeg",
+      "assets/webinition_images/webnition_7.jpeg",
+      "assets/webinition_images/webnition_8.jpeg",
+      "assets/webinition_images/webnition_9.jpeg",
+      "assets/webinition_images/webnition_10.jpeg",
+      "assets/webinition_images/webnition_11.jpeg"
+    ],
+    "tech": [
+      "Flutter",
+      "ASP.NET API",
+      "Data Visualization",
+      "Live Location",
+      "Firebase"
+    ],
+    "features": [
+      "Real-time ASP.NET API integration",
+      "Interactive charts and graphs",
+      "Shimmer loading UX effects",
+      "Infinite data scroll support",
+      "Location-based business listings",
+      "Detailed company and user profiles",
+      "U.S.-focused business data analytics"
+    ],
+    "description": "Webnition is a powerful data-driven mobile application built to visualize and analyze business and personal information across the U.S., offering real-time interaction and advanced UI features.\n\n🌐 ASP.NET API Integration: Seamlessly connects to a powerful backend for real-time data retrieval and complex queries.\n📊 Dynamic Data Visualization: Displays interactive pie charts, bar graphs, and line charts across different time frames (weekly, monthly, yearly).\n⚡ Performance Enhancements: Includes shimmer loading effects and infinite scrolling for large datasets, like YouTube’s smooth feed.\n📍 Location-Based Services: Provides live tracking and shows office locations on map views for both individuals and companies.\n📁 Detailed Profiles: Offers insights into company history, office addresses, and verified user reviews.\n🇺🇸 U.S. Focused: Designed around American datasets and business ecosystem.",
+    "links": [],
+    "screenshots": [
+      "/assets/webination-business-hub-0.jpeg",
+      "/assets/webination-business-hub-1.jpeg",
+      "/assets/webination-business-hub-2.jpeg"
+    ]
+  },
+  {
+    "title": "CareHub Health Platform",
+    "slug": "carehub-health-platform",
+    "image": "/assets/carehub-health-platform-cover.png",
+    "media": [
+      "assets/carhub_images/carehub_1.png",
+      "assets/carhub_images/carehub_2.png",
+      "assets/carhub_images/carehub_3.png",
+      "assets/carhub_images/carehub_4.png",
+      "assets/carhub_images/carehub_5.png",
+      "assets/carhub_images/carehub_6.png",
+      "assets/carhub_images/carehub_7.png",
+      "assets/carhub_images/carehub_8.png",
+      "assets/carhub_images/carehub_9.png",
+      "assets/carhub_images/carehub_10.png",
+      "assets/carhub_images/carehub_11.png",
+      "assets/carhub_images/carehub_12.png",
+      "assets/carhub_images/carehub_13.png",
+      "assets/carhub_images/carehub_14.png",
+      "assets/carhub_images/carehub_15.png",
+      "assets/carhub_images/carehub_16.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "Riverpod",
+      "FCM",
+      "Localization",
+      "Realtime Chat"
+    ],
+    "features": [
+      "Role-based access for caregiver, patient, and family",
+      "Cross-platform Flutter app (iOS & Android)",
+      "Phone number authentication via Firebase",
+      "Real-time chat for connected care",
+      "Push notifications with FCM",
+      "Riverpod for scalable state management",
+      "Multilingual UI with Flutter Intl",
+      "Responsive and scalable design"
+    ],
+    "description": "CareHub is a scalable mobile healthcare app built for caregivers, patients, and family members, delivering essential real-time features and smooth cross-platform performance on Android and iOS.\n\n🩺 Role-Based Access Control (RBAC): Distinct user roles — Caregiver, Patient, and Family Member — each with tailored views and permissions.\n📱 Cross-Platform Flutter App: Built using Flutter to ensure high performance and consistent UI on both Android and iOS.\n🔒 Firebase Authentication: Secured sign-in via phone number verification.\n💬 Real-Time Chat: Facilitates instant communication between patients, family members, and healthcare providers.\n📲 FCM Notifications: Push updates via Firebase Cloud Messaging.\n⚙️ Riverpod State Management: Clean and maintainable app logic.\n🌐 Multilingual Support: Integrated Flutter Intl for global accessibility.\n🧩 Scalable Design: Responsive, modular, and future-proof architecture.",
+    "links": [],
+    "screenshots": [
+      "/assets/carehub-health-platform-0.png",
+      "/assets/carehub-health-platform-1.png",
+      "/assets/carehub-health-platform-2.png"
+    ]
+  },
+  {
+    "title": "BRAKE Automotive",
+    "slug": "brake-automotive",
+    "image": "/assets/brake-automotive-cover.png",
+    "media": [
+      "assets/Brake_images/brake_1.png",
+      "assets/Brake_images/brake_2.png",
+      "assets/Brake_images/brake_3.png",
+      "assets/Brake_images/brake_4.png",
+      "assets/Brake_images/brake_5.png",
+      "assets/Brake_images/brake_6.png",
+      "assets/Brake_images/brake_7.png",
+      "assets/Brake_images/brake_8.png",
+      "assets/Brake_images/brake_9.png",
+      "assets/Brake_images/brake_10.png",
+      "assets/Brake_images/brake_11.png",
+      "assets/Brake_images/brake_12.png",
+      "assets/Brake_images/brake_13.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "ASP.NET API",
+      "Firebase Server",
+      "Cross-Platform",
+      "Real-Time Sync"
+    ],
+    "features": [
+      "Real-time slide sync across devices",
+      "Cross-platform app for Android, iOS, and Web",
+      "Live updates via Firebase",
+      "ASP.NET API for session control",
+      "Two-way control: mobile and web",
+      "Multi-device simultaneous login",
+      "Professional presenter-viewer experience"
+    ],
+    "description": "BRAKE is a cross-platform presentation and sync tool that enables real-time slide synchronization across mobile and web devices. It is designed for presenters and audiences to enjoy lag-free collaboration and control.\n\n🎛️ Real-Time Slide Sync: Slide transitions made on one device reflect instantly across all connected platforms — mobile and web.\n📱 Cross-Platform Compatibility: Built using Flutter, supporting Android, iOS, and Web from a single codebase.\n🔄 Firebase Integration: Real-time state synchronization for connected users and live interactions.\n🔐 ASP.NET API Backend: Securely handles user auth, session logic, and data transmission.\n🔁 Two-Way Control: Presenters can operate slides from mobile or web devices.\n📶 Multi-Device Login: Simultaneous login from different devices to manage or view sessions.",
+    "links": [],
+    "screenshots": [
+      "/assets/brake-automotive-0.png",
+      "/assets/brake-automotive-1.png",
+      "/assets/brake-automotive-2.png"
+    ]
+  },
+  {
+    "title": "BuySpy Marketplace",
+    "slug": "buyspy-marketplace",
+    "image": "/assets/buyspy-marketplace-cover.png",
+    "media": [
+      "Flutter",
+      "eBay API",
+      "Firebase",
+      "ASP.NET API",
+      "FCM",
+      "Real-Time Tracking"
+    ],
+    "tech": [],
+    "features": [
+      "Real-time price comparison",
+      "Deal alerts & notifications",
+      "Product review aggregation",
+      "Personalized recommendations",
+      "Wishlist tracking"
+    ],
+    "description": "BuySpy is a real-time eCommerce companion app built to track and alert users about active product listings on eBay. Designed with a focus on deal-hunting and user convenience, it brings live sales directly to your device.\n\n🛒 eBay API Integration: Fetches and displays live product listings from eBay in real time, mimicking an eBay-like browsing experience.\n📱 Cross-Platform Flutter App: Deployed for both Android and iOS, ensuring a consistent and smooth interface across devices.\n🔔 Configurable Notification Alerts: Users can choose how frequently they receive notifications — 1, 5, 15, 30 minutes, or 1 hour.\n📡 Firebase Cloud Messaging: Push notifications for product changes or new listings.\n🔐 ASP.NET Backend: Handles API request management, user data processing, and scheduling logic securely and efficiently.\n⚡ Real-Time Tracking: Instantly alerts users to price drops or new deals, keeping them ahead in the competitive buying process.",
+    "links": [],
+    "screenshots": []
+  },
+  {
+    "title": "Seabee Learning",
+    "slug": "seabee-learning",
+    "image": "/assets/seabee-learning-cover.png",
+    "media": [
+      "assets/Seabee_Study_images /seabee_1.png",
+      "assets/Seabee_Study_images /seabee_2.png",
+      "assets/Seabee_Study_images /seabee_3.png",
+      "assets/Seabee_Study_images /seabee_4.png",
+      "assets/Seabee_Study_images /seabee_5.png",
+      "assets/Seabee_Study_images /seabee_6.png",
+      "assets/Seabee_Study_images /seabee_7.png",
+      "assets/Seabee_Study_images /seabee_8.png",
+      "assets/Seabee_Study_images /seabee_9.png",
+      "assets/Seabee_Study_images /seabee_10.png",
+      "assets/Seabee_Study_images /seabee_11.png",
+      "assets/Seabee_Study_images /seabee_12.png",
+      "assets/Seabee_Study_images /seabee_13.png",
+      "assets/Seabee_Study_images /seabee_14.png",
+      "assets/Seabee_Study_images /seabee_15.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "Real-Time DB",
+      "Authentication",
+      "Analytics",
+      "Tiered Access"
+    ],
+    "features": [
+      "Personalized learning paths",
+      "Interactive course content",
+      "Progress tracking",
+      "Certification preparation",
+      "Offline access"
+    ],
+    "description": "Seabee Study is an educational mobile app designed for university students to practice and master course-related MCQs in real time. It supports progress tracking, scoring analytics, and tiered access levels for both casual learners and advanced users.\n\n📘 MCQ-Based Learning: Offers a rich bank of university-level multiple-choice questions, divided into Basic and Advanced phases to suit all learners.\n⚡ Real-Time Scoring: Users receive instant feedback and scores upon answering, helping reinforce learning through immediate correction.\n🔥 Firebase Integration:\n– Real-time Database for syncing MCQs, scores, and user progress.\n– Authentication to manage account types (Free vs. Pro).\n📊 Progress Tracking: Displays individual learning analytics, scores, and performance trends to monitor academic improvement.\n🔓 Tiered Access:\n– Free Account: Access to basic MCQs and features.\n– Pro Account: Unlocks advanced question sets, detailed analytics, and priority content updates.",
+    "links": [],
+    "screenshots": [
+      "/assets/seabee-learning-0.png",
+      "/assets/seabee-learning-1.png",
+      "/assets/seabee-learning-2.png"
+    ]
+  },
+  {
+    "title": "Carbid Marketplace",
+    "slug": "carbid-marketplace",
+    "image": "/assets/carbid-marketplace-cover.png",
+    "media": [
+      "assets/carbid_images/carbid_1.jpeg",
+      "assets/carbid_images/carbid_2.jpeg",
+      "assets/carbid_images/carbid_3.jpeg",
+      "assets/carbid_images/carbid_4.jpeg",
+      "assets/carbid_images/carbid_5.jpeg"
+    ],
+    "tech": [
+      "Flutter",
+      "ASP.NET API",
+      "SignalR",
+      "Localization",
+      "Real-Time Bidding",
+      "Live Chat"
+    ],
+    "features": [
+      "Verified vehicle listings",
+      "Financing options",
+      "Vehicle history reports",
+      "Secure escrow services",
+      "AI pricing recommendations"
+    ],
+    "description": "Carbid is a real-time product auction app designed for a global audience, offering live bidding, real-time chat, and multilingual support to enhance the online buying and selling experience.\n\n🚗 Live Bidding System: Users can bid on products in real time, with instant updates on auction status and pricing.\n💬 Real-Time Communication: Integrated SignalR in Flutter to support live chat and synchronized bidding notifications across devices.\n🔐 ASP.NET API Integration: Manages backend operations including bidding logic, product listings, and user sessions securely and efficiently.\n🌐 Internationalization & Localization:\n– Supports multiple languages and regions, enabling a globally accessible platform.\n– Dynamically adapts text and formats based on the user's locale.\n⚡ Seamless User Experience: Real-time interactivity delivers a smooth and engaging buying/selling environment across all supported countries.",
+    "links": [],
+    "screenshots": [
+      "/assets/carbid-marketplace-0.jpeg",
+      "/assets/carbid-marketplace-1.jpeg",
+      "/assets/carbid-marketplace-2.jpeg"
+    ]
+  },
+  {
+    "title": "Wedding Planner Pro",
+    "slug": "wedding-planner-pro",
+    "image": "/assets/wedding-planner-pro-cover.png",
+    "media": [
+      "assets/wedding_planner_images/wedding_1.png",
+      "assets/wedding_planner_images/wedding_2.png",
+      "assets/wedding_planner_images/wedding_3.png",
+      "assets/wedding_planner_images/wedding_4.png",
+      "assets/wedding_planner_images/wedding_5.png",
+      "assets/wedding_planner_images/wedding_6.png",
+      "assets/wedding_planner_images/wedding_7.png",
+      "assets/wedding_planner_images/wedding_8.png",
+      "assets/wedding_planner_images/wedding_9.png",
+      "assets/wedding_planner_images/wedding_10.png",
+      "assets/wedding_planner_images/wedding_11.png"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "Cloud Messaging",
+      "Task Scheduling",
+      "Reminders",
+      "Collaboration"
+    ],
+    "features": [
+      "Budget tracking tools",
+      "Vendor management system",
+      "Guest list organization",
+      "Seating chart creation",
+      "Timeline planning"
+    ],
+    "description": "Wedding Planner is an elegant and intuitive mobile app designed to help users effortlessly organize their weddings. It offers a feature-rich, visually appealing experience that transforms complex planning into a joyful journey.\n\n💍 Flutter-Powered UI: Built with Flutter for a smooth, responsive, and consistent experience across Android and iOS.\n🔥 Firebase Integration:\n– Real-time data management for tasks, guests, budgets, and event timelines.\n– Cloud Messaging to send personalized reminders and updates.\n📅 Smart Task Scheduling: Keeps users on track with important milestones and deadlines using an intuitive planning system.\n🎨 Engaging User Experience: Designed with a clean and romantic UI to make wedding planning enjoyable and stress-free.\n🔔 Reminders & Notifications: Helps users stay organized with timely alerts for meetings, bookings, and important dates.",
+    "links": [],
+    "screenshots": [
+      "/assets/wedding-planner-pro-0.png",
+      "/assets/wedding-planner-pro-1.png",
+      "/assets/wedding-planner-pro-2.png"
+    ]
+  }
+]
