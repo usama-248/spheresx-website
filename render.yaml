@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: spheresx-website
+    runtime: static
+    repo: https://github.com/usama-248/spheresx-website
+    branch: main
+    buildCommand: 'true'
+    staticPublishPath: ./docs
