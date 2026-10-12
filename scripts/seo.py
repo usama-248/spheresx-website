@@ -32,7 +32,7 @@ def apply_seo(dist):
         url = canonical_url(path)
         metadata = [
             f'<link rel="canonical" href="{url}">',
-            '<link rel="icon" type="image/png" href="' + LOGO + '">',
+            '<link rel="icon" type="image/svg+xml" sizes="any" href="' + SITE + '/assets/favicon.svg?v=2">',
             '<meta name="robots" content="' + ('noindex,follow' if path == '404.html' else 'index,follow,max-image-preview:large') + '">',
         ]
         for key, value in {
