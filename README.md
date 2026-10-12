@@ -48,3 +48,44 @@ Python uses its standard library only. No npm install is needed. Commit the upda
 Project and blog filters, mobile navigation, screenshot viewer, separate service/project/blog pages, and email/WhatsApp/telephone links. The inquiry form opens an email client; it does not submit to a server. There is no database or admin dashboard. Store and video links use external services. Recommendation sources link to the founder's portfolio; there are no Google ratings.
 
 The exported links work with both a repository subpath and a custom domain. This download contains no ChatGPT hosting credentials, Git history or private deployment configuration.
+
+## Production SEO
+
+The build generates canonical URLs for `https://spheresx.com/`, Open Graph metadata,
+Organization/WebSite/WebPage/BreadcrumbList JSON-LD, `docs/robots.txt`, and
+`docs/sitemap.xml`. Legacy `insights` pages canonicalize to the equivalent blog
+pages; the 404 page is excluded from indexing. Change `SITE` in `scripts/seo.py`
+before deploying to a different production domain. Preview copies retain the
+production canonical URLs intentionally.
+
+To release, deploy the contents of `docs/` through the site's existing hosting
+configuration. Verify `/sitemap.xml` returns XML with HTTP 200 and check the live
+homepage source for its canonical link and JSON-LD. Cloudflare's managed robots
+feature may add text; confirm the live response includes the sitemap directive
+and does not block Googlebot.
+
+After deployment, verify ownership of `spheresx.com` in Google Search Console
+(a Domain property uses a DNS TXT record supplied by Google). Submit
+`https://spheresx.com/sitemap.xml` under Sitemaps, inspect the homepage URL,
+and request indexing. Use Google's Rich Results Test to check the live markup.
+Watch Search Console impressions and clicks for the SpheresX query over time.
+Neither metadata nor sitemap submission guarantees indexing or a top ranking.
+
+For a Google Business Profile, confirm the business meets customers in person
+at its office or at customer locations. Online-only businesses are ineligible.
+Claim an existing listing instead of creating a duplicate, verify ownership,
+and add the real business name, website, phone, address/service area, hours,
+logo and genuine photos. Keep details consistent with the website. No street
+address or opening hours have been invented in this build.
+
+Google reviews must be submitted by real customers through their own Google
+accounts. Once the profile exists, obtain its review link from “Get more reviews”.
+The existing founder recommendations remain attributed portfolio testimonials;
+they have not been converted into Google reviews or fabricated star ratings.
+Google decides whether a knowledge panel or other search features appear.
+
+Official references:
+- https://developers.google.com/search/docs/appearance/structured-data/organization
+- https://developers.google.com/search/docs/appearance/establish-business-details
+- https://support.google.com/business/answer/13763036
+- https://support.google.com/business/answer/16816815
